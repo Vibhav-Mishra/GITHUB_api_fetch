@@ -1,8 +1,7 @@
 # GITHUB_api_fetch
-This is like a clone of github where any github user can enter there github profile and see their repositories...
- 
-used api fetch
 
-& 
+SOLO PROJECT :
 
-Made it alone , within 2 hours.
+This is like a clone of github where any github user can enter there github account profile and see their repositories...
+
+Technologies used in this project are HTML CSS and JAVASCRIPT with the feature of "api fetch" to call the data.
